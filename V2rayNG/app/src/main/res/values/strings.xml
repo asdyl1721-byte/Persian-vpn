@@ -27,8 +27,8 @@
     <string name="toast_services_failure">Failed to start service</string>
 
     <!--ServerActivity-->
-    <string name="title_server">Config</string>
-    <string name="menu_item_add_config">Add config</string>
+    <string name="title_server">Asady Config</string>
+    <string name="menu_item_add_Config">Add config</string>
     <string name="menu_item_save_config">Save config</string>
     <string name="menu_item_edit_config">Edit config</string>
     <string name="menu_item_del_config">Delete config</string>
